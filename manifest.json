@@ -1,0 +1,11 @@
+{
+	"id": "quill-pub",
+	"name":  "quil",
+	"version": "1.0.0",
+	"author": "shivanshguleria",
+	"minAppVersion": "0.15.0",
+	"description": "A plugin to manage writings in personal blog",
+	"authorUrl": "https://shivanshguleria.xyz",
+	"fundingUrl": "https://shivanshguleria.xyz",
+	"isDesktopOnly": true
+}
